@@ -15,5 +15,5 @@ function traverse(nums) {
 
 }
 
-traverse(arr)
+traverse(arr)    // 1 2 3 4 5
 
