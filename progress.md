@@ -10,3 +10,13 @@
 ## Goal
 - 🎯 Solve at least 5 problems per week
 - 🎯 Cover all DSA topics step by step
+
+
+
+
+
+
+
+##Goal
+
+- Solve at least 5 problems per week 
