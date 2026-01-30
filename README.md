@@ -7,7 +7,7 @@ I solve problems from platforms like **LeetCode, HackerRank, GeeksforGeeks** and
 
 ## 📌 Topics Covered
 - [x] Arrays
-- [x] Strings
+- [ ] Strings
 - [ ] Linked List
 - [ ] Stack & Queue
 - [ ] Recursion & Backtracking
