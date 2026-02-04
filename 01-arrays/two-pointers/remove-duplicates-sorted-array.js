@@ -1,4 +1,4 @@
-
+// Only for sorted arrays
 
 //Time Complexity- O(n)
 //Space Complexity- O(n)
@@ -11,9 +11,7 @@ function myFun(nums) {
 
     for (let i = 0; i < nums.length; i++) {
 
-        if (nums[i] == nums[i + 1]) {
-
-        } else {
+        if (nums[i] !== nums[i + 1]) {
             unique.push(nums[i])
         }
     }
