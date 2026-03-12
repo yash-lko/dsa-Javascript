@@ -26,7 +26,7 @@ Check [progress.md](progress.md) for my daily/weekly log.
 ## 💻 Languages Used
 - JavaScript (Primary)
 - TypeScript (later)
-- Python (optional)
+- Python 
 
 ---
 
