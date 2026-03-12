@@ -1,6 +1,6 @@
 # 🚀 DSA Practice in JavaScript
 
-This repository contains my **Data Structures & Algorithms (DSA)** practice solutions.  
+This repository contains my **Data Structures & Algorithms (DSA)** Practice Solutions.  
 I solve problems from platforms like **LeetCode, HackerRank, GeeksforGeeks** and organize them Topic-Wise.
 
 ---
