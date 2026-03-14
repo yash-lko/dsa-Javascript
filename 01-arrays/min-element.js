@@ -1,5 +1,5 @@
 
-// Time Complexity- O(n)
+//Time Complexity- O(n)
 //Space Complexity - O(1) Only constant variables
 
 const arr = [1, 2, 3, 6, 4, 1]
