@@ -1,8 +1,8 @@
 
 //Count occurrences of a given number
 
-// Time Complexity- O(n)
-// Space Complexity- O(1)
+//Time Complexity- O(n)
+//Space Complexity- O(1)
 
 const arr = [1, 2, 3, 2, 2, 4, 5]
 const x = 2
