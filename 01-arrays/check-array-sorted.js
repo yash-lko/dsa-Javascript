@@ -1,6 +1,6 @@
 
 // Time Complexity= O(n)
-// Space Complexity= 
+// Space Complexity= O(n)
 
 
 
