@@ -1,6 +1,6 @@
 
-// Time Complexity - O(n²)
-// Space Comlexity-  O(n)
+//Time Complexity - O(n²)
+//Space Comlexity-  O(n)
 
 const arr = [2, 1, 2, 3, 1, 5, 0, 6, 1]
 
