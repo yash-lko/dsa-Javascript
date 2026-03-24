@@ -46,3 +46,5 @@ function myFun(nums) {
   return unique
 }
 console.log(myFun(arr))
+
+//yash-lko
