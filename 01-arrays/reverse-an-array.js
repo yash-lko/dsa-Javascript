@@ -50,3 +50,6 @@ function myFun(nums) {
     return nums;
 }
 console.log(myFun(arr)); // [6, 5, 4, 3, 2, 1]
+
+
+//yash-lko
