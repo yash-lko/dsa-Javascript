@@ -18,3 +18,4 @@ function minfun(nums) {
 
 console.log(minfun(arr))   // 1
 
+//yash-lko
