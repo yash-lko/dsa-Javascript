@@ -19,3 +19,5 @@ function myFun(nums, target) {
 }
 
 console.log(myFun(arr, x))   //  3
+
+//yash-lko
