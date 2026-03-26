@@ -47,4 +47,3 @@ function myFun(nums) {
 }
 console.log(myFun(arr))
 
-//yash-lko
