@@ -23,5 +23,3 @@ function myFun(nums) {
 }
 console.log(myFun(arr))   //24
 
-
-//yash-lko
