@@ -12,5 +12,3 @@ function reverse(nums) {
     return reversed
 }
 console.log(reverse(arr))    // [6, 5, 4, 3, 2, 1]
-
-//yash-lko
