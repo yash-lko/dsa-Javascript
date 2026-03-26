@@ -17,5 +17,5 @@ function maxfun(nums) {
 }
 console.log(maxfun(arr))   //  output-   6
 
-//yash-lko
+
 
