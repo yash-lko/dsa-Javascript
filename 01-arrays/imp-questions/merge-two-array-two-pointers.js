@@ -1,5 +1,5 @@
 
-//Merge two sorted arrays into one sorted array (using the two pointers technique
+//Merge two sorted arrays into one sorted array (using the two pointers technique //
 // TC= O(n+m)   SC= O(n+m)
 let arr1 = [1, 3, 5]
 let arr2 = [2, 4, 6, 8]
